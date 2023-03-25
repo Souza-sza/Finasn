@@ -1,0 +1,15 @@
+.branco{
+	color: white;
+}
+
+.texto{
+	font-size: 20px;
+}
+
+.caixa{
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5 ;
+}
+.ver{
+	color: red;
+}
